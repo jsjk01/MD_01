@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MD_01</string>
+    <string name="first_label">男</string>
+    <string name="second_label">女</string>
+    <string name="third_label">言叶之庭</string>
+    <string name="first_check">羽毛球</string>
+    <string name="second_check">长跑</string>
+    <string name="third_check">爬山</string>
+    <string name="forth_label">可塑性记忆</string>
+    <string name="fifth_label">一周的朋友</string>
+    <string name="forth_check">电子游戏</string>
+</resources>
